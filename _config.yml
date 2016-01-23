@@ -1,0 +1,28 @@
+name: Dynamics
+favicon: null
+layout_spectrum: 0.05672363075427711
+typography_spectrum: 0.5365226336289197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7412876733578742
+  lightness: 0.691176981665194
+  saturation: 0.8119141650386155
+  rhythmicContrast: 0.1310788025148213
+purpose: []
