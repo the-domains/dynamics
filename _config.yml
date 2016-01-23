@@ -1,7 +1,7 @@
 name: Dynamics
 favicon: null
-layout_spectrum: 0.05672363075427711
-typography_spectrum: 0.5365226336289197
+layout_spectrum: 1
+typography_spectrum: 0.74955
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#070d09'
+    - '#66b7a6'
+    - '#326753'
+    - '#ef723c'
   brandStrength: 0.7412876733578742
   lightness: 0.691176981665194
   saturation: 0.8119141650386155
